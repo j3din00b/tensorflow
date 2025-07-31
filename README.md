@@ -1,5 +1,8 @@
+> [!IMPORTANT]
+> As of 07/31/2025 this project has been deprecated. nvidia-tensorflow is not maintained anymore. NVIDIA recommends that new projects adopt [JAX Toolbox](https://github.com/NVIDIA/JAX-Toolbox).
+
 <div align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" height="200px">
 </div>
 
 | **`Documentation`** |
